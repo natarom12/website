@@ -1,0 +1,172 @@
+:: StoryTitle
+The Lost Cat
+
+
+:: StoryData
+{
+  "ifid": "FF299B60-DAF9-467C-AD7F-3E0743CA0222",
+  "format": "Harlowe",
+  "format-version": "3.3.7",
+  "start": "Entrance",
+  "zoom": 1
+}
+
+
+:: Ask others at the beach for help {"position":"675,875","size":"100,100"}
+Unfortunately, everyone has left the beach because it is late. 
+
+[[You decide to call for help]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Call an Animal Rescue for help {"position":"550,625","size":"100,100"}
+<img src="https://static.wixstatic.com/media/2df82f_48a243d536a84b619923653b860b5a38~mv2.jpg"600px" height="400px">
+
+You start dialing and after waiting 30 minutes they finally answer. You tell them what has happened, and they say "we will get someone over there as soon as possible, in the meantime, try your best to get him out and be patient." 
+
+The only option now is to figure out what to do next.
+
+[[Listen to what you were told on the phone]]
+
+[[Go home]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_dfaba3cababa4425b44be87922c0d707.mp3" autoplay>
+
+
+
+
+
+:: Entrance {"position":"425,250","size":"100,100"}
+<img src="https://static.wixstatic.com/media/2df82f_922accd3269d4d06be18156e06a9d271~mv2.png"600px" height="400px">
+
+Welcome to the (text-colour:blue)[Lost Cat] interactive story game!
+
+You will embark on an adventure to save a missing cat named Milo.  You will have to make decisions throughout the game to save him.
+
+(text-style:"fade-in-out")[[Start Story Game]]
+
+(text-style:"fade-in-out")[[[Instructions]]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Go home {"position":"675,750","size":"100,100"}
+Unfortunately, Milo was not found that night. Go back to continue looking for him. 
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Instructions {"position":"550,375","size":"100,100"}
+Each passage gives you a prompt to answer. Decide what is the best course of action to save Milo. 
+
+[[Start Story Game]] 
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Listen to what you were told on the phone {"position":"550,750","size":"100,100"}
+You decide to help Mrs.Miller look for Milo. Both of you throw treats and toys, and both finally see him. He looks afraid, the second you get close, he goes back into the bushes. This is great news because there is hope since you now know he is definitely in the bushes. 
+
+You decide to [[throw more treats and toys]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: No {"position":"425,500","size":"100,100"}
+Unfortunately, Milo was not found that night. Go back to [[Start Story Game]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Start Story Game {"position":"425,375","size":"100,100"}
+<img src="https://wallpapercave.com/wp/wp4214026.jpg"width="600px" height="400px">
+
+You're walking at the beach during the evening, and the owner of a missing cat asks you for help. "My baby Milo has been missing for over an hour. I brought him to the beach in his carrier and I did not realize the zipper of the carrier was unzipped. He ran into the big prickly bush over there!"
+
+Can you help me find him? says Mrs. Miller
+
+(text-style:"fade-in-out")[[Yes]]
+
+(text-style:"fade-in-out")[[No]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Stay at the beach and throw treats and toys for Milo's attention {"position":"675,625","size":"100,100"}
+<img src="https://static.wixstatic.com/media/2df82f_48a243d536a84b619923653b860b5a38~mv2.jpg"600px" height="400px">
+
+You stay at the beach and start throwing treats. It has been hours now and no response. You both start to wonder if Milo is even in the bushes anymore. 
+
+[[You decide to call an animal rescue shelter]]
+
+[[Ask others at the beach for help]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: Yes {"position":"550,500","size":"100,100"}
+<img src="https://static.vecteezy.com/system/resources/thumbnails/005/732/461/small/night-time-scene-with-bright-full-moon-at-lake-vector.jpg"600px" height="400px">
+
+Mrs.Miller thanks you. You both start yelling "Milo" but there is still no sign of him. Hours go by and its beginning to get late and dark. It is getting very hard to see and Mrs.Miller is losing hope. 
+
+She asks you, what should we do next? 
+
+[[Call an Animal Rescue for help]]
+
+[[Stay at the beach and throw treats and toys for Milo's attention]]
+
+[[Go home]]
+
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: You decide to call an animal rescue shelter {"position":"800,750","size":"100,100"}
+You decide to help Mrs.Miller look for Milo. Both of you throw treats and toys, and both finally see him. He looks afraid, the second you get close, he goes back into the bushes. This is great news because there is hope since you now know he is definitely in the bushes. 
+
+You decide to [[throw more treats and toys]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_dfaba3cababa4425b44be87922c0d707.mp3" autoplay>
+
+
+:: You decide to call for help {"position":"675,1000","size":"100,100"}
+They do not pick up your call. Mrs.Miller says "Over here! He is over here!" You walk over and Milo has been found.
+
+[[You receive your $500 reward]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+
+
+:: You receive your $500 reward {"position":"550,1000","size":"100,100"}
+<img src="https://static.wixstatic.com/media/2df82f_de7077087a634d61a313589e8dfdd7ce~mv2.jpeg"600px" height="400px">
+
+Congratulations! You completed the game. 
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_9935f69023eb4a649cb69ed38e2e5f4c.mp3" autoplay>
+
+
+
+
+
+:: throw more treats and toys {"position":"550,875","size":"100,100"}
+Milo finally comes out and Mrs.Miller grabs him. She thanks you for helping her and gives you a $500 reward for finding him. You enjoy the rest of your night. 
+
+[[You receive your $500 reward]]
+
+<audio src="https://static.wixstatic.com/mp3/2df82f_df3c9bdcbb894cbd90a640b805fffb8f.mp3" autoplay>
+
+
+:: StoryStylesheet [stylesheet]
+tw-story{
+  font-family: monaco, monospace, helvetica, sans-serif;
+  font-size:100%;
+  color:white;
+  background-color:white;}
+
+tw-story {
+  background-image:url("https://images.pexels.com/photos/14307330/pexels-photo-14307330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+  background-size:cover;
+}
